@@ -19,7 +19,9 @@ Sử dụng: Truy cập thư mục tương ứng và làm theo hướng dẫn tr
 
 Sửa lỗi:
 g++ -std=c++17 main.cpp recursive_search.cpp stack_search.cpp -o main.exe
+
 .\main.exe
+
 👤 Tác giả
 Thái Sơn - GitHub Profile
 
