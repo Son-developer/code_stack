@@ -5,6 +5,8 @@
 
 namespace fs = std::filesystem;
 
+// cài đặt logic tìm bằng stack (không đệ quy)
+
 // Tuong duong voi search_with_stack() trong stack_search.py
 bool searchWithStack(const std::string &folder_path, const std::string &target)
 {

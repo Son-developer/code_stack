@@ -4,6 +4,8 @@
 
 namespace fs = std::filesystem;
 
+// cài đặt logic tìm bằng đệ quy
+
 // Tuong duong voi search_recursive() trong recursive_search.py
 bool searchRecursive(const std::string &folder_path, const std::string &target)
 {
